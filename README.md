@@ -6,7 +6,10 @@
 
 📫 How to reach me: dancoding10@gmail.com
 
-                    https://www.linkedin.com/in/timothy-danielle-buitre/
+  https://www.linkedin.com/in/timothy-danielle-buitre/
+
+
+
 <!--
 **danwithcode/danwithcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
