@@ -4,9 +4,7 @@
 
 🔭 I’m currently working on a data analytics project about the data regarding State University College yearly enrollments and graduates
 
-📫 How to reach me: dancoding10@gmail.com
-
-  https://www.linkedin.com/in/timothy-danielle-buitre/
+📫 How to reach me: dancoding10@gmail.com and https://www.linkedin.com/in/timothy-danielle-buitre/
 
 
 
